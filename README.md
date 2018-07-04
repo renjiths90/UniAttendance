@@ -1,1 +1,2 @@
-# UniAttendance
+# ams
+Simple Attendance Management System
